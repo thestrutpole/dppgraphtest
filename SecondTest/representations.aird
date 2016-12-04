@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:un.asydev.editor.dpp="http:///un/asydev/editor/dom/dpp.ecore" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/style/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/style">
+  <viewpoint:DAnalysis xmi:id="_is_s0LXWEeabfPHhUTXoyQ" selectedViews="_tSedwLXWEeabfPHhUTXoyQ" version="11.1.0.201608251200">
+    <semanticResources>Second.dpp</semanticResources>
+    <ownedViews xmi:type="viewpoint:DView" xmi:id="_tSedwLXWEeabfPHhUTXoyQ">
+      <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']"/>
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" xmi:id="_tS7JsLXWEeabfPHhUTXoyQ" name="DPP Diagram" representation="_tS7JsbXWEeabfPHhUTXoyQ">
+        <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']"/>
+        <target xmi:type="un.asydev.editor.dpp:Document" href="Second.dpp#/"/>
+      </ownedRepresentationDescriptors>
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" xmi:id="_2ikJELXWEeabfPHhUTXoyQ" name="DPP Diagram" representation="_2ikJEbXWEeabfPHhUTXoyQ">
+        <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']"/>
+        <target xmi:type="un.asydev.editor.dpp:Document" href="Second.dpp#/"/>
+      </ownedRepresentationDescriptors>
+    </ownedViews>
+  </viewpoint:DAnalysis>
+  <diagram:DSemanticDiagram xmi:id="_tS7JsbXWEeabfPHhUTXoyQ" name="DPP Diagram">
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" xmi:id="_tS7JsrXWEeabfPHhUTXoyQ" source="DANNOTATION_CUSTOMIZATION_KEY">
+      <data xmi:type="diagram:ComputedStyleDescriptionRegistry" xmi:id="_tS7Js7XWEeabfPHhUTXoyQ"/>
+    </ownedAnnotationEntries>
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" xmi:id="_tS7JybXWEeabfPHhUTXoyQ" source="GMF_DIAGRAMS">
+      <data xmi:type="notation:Diagram" xmi:id="_tS7JyrXWEeabfPHhUTXoyQ" type="Sirius" element="_tS7JsbXWEeabfPHhUTXoyQ" measurementUnit="Pixel">
+        <children xmi:type="notation:Node" xmi:id="_tTE6sLXWEeabfPHhUTXoyQ" type="2002" element="_tS7JtLXWEeabfPHhUTXoyQ">
+          <children xmi:type="notation:Node" xmi:id="_tTE6s7XWEeabfPHhUTXoyQ" type="5006"/>
+          <children xmi:type="notation:Node" xmi:id="_tTOEoLXWEeabfPHhUTXoyQ" type="7001">
+            <children xmi:type="notation:Node" xmi:id="_tTOEo7XWEeabfPHhUTXoyQ" type="3008" element="_tS7JtrXWEeabfPHhUTXoyQ">
+              <children xmi:type="notation:Node" xmi:id="_tTOEprXWEeabfPHhUTXoyQ" type="5005"/>
+              <children xmi:type="notation:Node" xmi:id="_tTOEp7XWEeabfPHhUTXoyQ" type="7002">
+                <children xmi:type="notation:Node" xmi:id="_tTOEu7XWEeabfPHhUTXoyQ" type="3008" element="_tS7JuLXWEeabfPHhUTXoyQ">
+                  <children xmi:type="notation:Node" xmi:id="_tTOEvrXWEeabfPHhUTXoyQ" type="5005"/>
+                  <children xmi:type="notation:Node" xmi:id="_tTOEv7XWEeabfPHhUTXoyQ" type="7002">
+                    <styles xmi:type="notation:SortingStyle" xmi:id="_tTOEwLXWEeabfPHhUTXoyQ"/>
+                    <styles xmi:type="notation:FilteringStyle" xmi:id="_tTOEwbXWEeabfPHhUTXoyQ"/>
+                    <styles xmi:type="notation:DrawerStyle" xmi:id="_tTOEwrXWEeabfPHhUTXoyQ"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_tTOEvLXWEeabfPHhUTXoyQ" fontName="Segoe UI" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tTOEvbXWEeabfPHhUTXoyQ"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_tTOEw7XWEeabfPHhUTXoyQ" type="3008" element="_tS7JurXWEeabfPHhUTXoyQ">
+                  <children xmi:type="notation:Node" xmi:id="_tTOExrXWEeabfPHhUTXoyQ" type="5005"/>
+                  <children xmi:type="notation:Node" xmi:id="_tTOEx7XWEeabfPHhUTXoyQ" type="7002">
+                    <styles xmi:type="notation:SortingStyle" xmi:id="_tTOEyLXWEeabfPHhUTXoyQ"/>
+                    <styles xmi:type="notation:FilteringStyle" xmi:id="_tTOEybXWEeabfPHhUTXoyQ"/>
+                    <styles xmi:type="notation:DrawerStyle" xmi:id="_tTOEyrXWEeabfPHhUTXoyQ"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_tTOExLXWEeabfPHhUTXoyQ" fontName="Segoe UI" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tTOExbXWEeabfPHhUTXoyQ" y="40"/>
+                </children>
+                <styles xmi:type="notation:SortingStyle" xmi:id="_tTOEqLXWEeabfPHhUTXoyQ"/>
+                <styles xmi:type="notation:FilteringStyle" xmi:id="_tTOEqbXWEeabfPHhUTXoyQ"/>
+                <styles xmi:type="notation:DrawerStyle" xmi:id="_tTOEqrXWEeabfPHhUTXoyQ"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_tTOEpLXWEeabfPHhUTXoyQ" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tTOEpbXWEeabfPHhUTXoyQ"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_tTOEq7XWEeabfPHhUTXoyQ" type="3008" element="_tS7JvLXWEeabfPHhUTXoyQ">
+              <children xmi:type="notation:Node" xmi:id="_tTOErrXWEeabfPHhUTXoyQ" type="5005"/>
+              <children xmi:type="notation:Node" xmi:id="_tTOEr7XWEeabfPHhUTXoyQ" type="7002">
+                <children xmi:type="notation:Node" xmi:id="_tTOEy7XWEeabfPHhUTXoyQ" type="3008" element="_tS7JvrXWEeabfPHhUTXoyQ">
+                  <children xmi:type="notation:Node" xmi:id="_tTOEzrXWEeabfPHhUTXoyQ" type="5005"/>
+                  <children xmi:type="notation:Node" xmi:id="_tTOEz7XWEeabfPHhUTXoyQ" type="7002">
+                    <styles xmi:type="notation:SortingStyle" xmi:id="_tTOE0LXWEeabfPHhUTXoyQ"/>
+                    <styles xmi:type="notation:FilteringStyle" xmi:id="_tTOE0bXWEeabfPHhUTXoyQ"/>
+                    <styles xmi:type="notation:DrawerStyle" xmi:id="_tTOE0rXWEeabfPHhUTXoyQ"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_tTOEzLXWEeabfPHhUTXoyQ" fontName="Segoe UI" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tTOEzbXWEeabfPHhUTXoyQ"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_tTOE07XWEeabfPHhUTXoyQ" type="3008" element="_tS7JwLXWEeabfPHhUTXoyQ">
+                  <children xmi:type="notation:Node" xmi:id="_tTOE1rXWEeabfPHhUTXoyQ" type="5005"/>
+                  <children xmi:type="notation:Node" xmi:id="_tTOE17XWEeabfPHhUTXoyQ" type="7002">
+                    <styles xmi:type="notation:SortingStyle" xmi:id="_tTOE2LXWEeabfPHhUTXoyQ"/>
+                    <styles xmi:type="notation:FilteringStyle" xmi:id="_tTOE2bXWEeabfPHhUTXoyQ"/>
+                    <styles xmi:type="notation:DrawerStyle" xmi:id="_tTOE2rXWEeabfPHhUTXoyQ"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_tTOE1LXWEeabfPHhUTXoyQ" fontName="Segoe UI" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tTOE1bXWEeabfPHhUTXoyQ" y="40"/>
+                </children>
+                <styles xmi:type="notation:SortingStyle" xmi:id="_tTOEsLXWEeabfPHhUTXoyQ"/>
+                <styles xmi:type="notation:FilteringStyle" xmi:id="_tTOEsbXWEeabfPHhUTXoyQ"/>
+                <styles xmi:type="notation:DrawerStyle" xmi:id="_tTOEsrXWEeabfPHhUTXoyQ"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_tTOErLXWEeabfPHhUTXoyQ" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tTOErbXWEeabfPHhUTXoyQ" x="40"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_tTOEs7XWEeabfPHhUTXoyQ" type="3008" element="_tS7JwrXWEeabfPHhUTXoyQ">
+              <children xmi:type="notation:Node" xmi:id="_tTOEtrXWEeabfPHhUTXoyQ" type="5005"/>
+              <children xmi:type="notation:Node" xmi:id="_tTOEt7XWEeabfPHhUTXoyQ" type="7002">
+                <children xmi:type="notation:Node" xmi:id="_tTOE27XWEeabfPHhUTXoyQ" type="3008" element="_tS7JxLXWEeabfPHhUTXoyQ">
+                  <children xmi:type="notation:Node" xmi:id="_tTOE3rXWEeabfPHhUTXoyQ" type="5005"/>
+                  <children xmi:type="notation:Node" xmi:id="_tTOE37XWEeabfPHhUTXoyQ" type="7002">
+                    <styles xmi:type="notation:SortingStyle" xmi:id="_tTOE4LXWEeabfPHhUTXoyQ"/>
+                    <styles xmi:type="notation:FilteringStyle" xmi:id="_tTOE4bXWEeabfPHhUTXoyQ"/>
+                    <styles xmi:type="notation:DrawerStyle" xmi:id="_tTOE4rXWEeabfPHhUTXoyQ"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_tTOE3LXWEeabfPHhUTXoyQ" fontName="Segoe UI" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tTOE3bXWEeabfPHhUTXoyQ"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_tTOE47XWEeabfPHhUTXoyQ" type="3008" element="_tS7JxrXWEeabfPHhUTXoyQ">
+                  <children xmi:type="notation:Node" xmi:id="_tTOE5rXWEeabfPHhUTXoyQ" type="5005"/>
+                  <children xmi:type="notation:Node" xmi:id="_tTOE57XWEeabfPHhUTXoyQ" type="7002">
+                    <styles xmi:type="notation:SortingStyle" xmi:id="_tTOE6LXWEeabfPHhUTXoyQ"/>
+                    <styles xmi:type="notation:FilteringStyle" xmi:id="_tTOE6bXWEeabfPHhUTXoyQ"/>
+                    <styles xmi:type="notation:DrawerStyle" xmi:id="_tTOE6rXWEeabfPHhUTXoyQ"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_tTOE5LXWEeabfPHhUTXoyQ" fontName="Segoe UI" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tTOE5bXWEeabfPHhUTXoyQ" y="40"/>
+                </children>
+                <styles xmi:type="notation:SortingStyle" xmi:id="_tTOEuLXWEeabfPHhUTXoyQ"/>
+                <styles xmi:type="notation:FilteringStyle" xmi:id="_tTOEubXWEeabfPHhUTXoyQ"/>
+                <styles xmi:type="notation:DrawerStyle" xmi:id="_tTOEurXWEeabfPHhUTXoyQ"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_tTOEtLXWEeabfPHhUTXoyQ" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tTOEtbXWEeabfPHhUTXoyQ" x="80"/>
+            </children>
+            <styles xmi:type="notation:SortingStyle" xmi:id="_tTOEobXWEeabfPHhUTXoyQ"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_tTOEorXWEeabfPHhUTXoyQ"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_tTE6sbXWEeabfPHhUTXoyQ" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tTE6srXWEeabfPHhUTXoyQ"/>
+        </children>
+        <styles xmi:type="notation:DiagramStyle" xmi:id="_tS7Jy7XWEeabfPHhUTXoyQ"/>
+      </data>
+    </ownedAnnotationEntries>
+    <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_tS7JtLXWEeabfPHhUTXoyQ" childrenPresentation="HorizontalStack">
+      <target xmi:type="un.asydev.editor.dpp:DppContainer" href="Second.dpp#//@dppContainer"/>
+      <semanticElements xmi:type="un.asydev.editor.dpp:DppContainer" href="Second.dpp#//@dppContainer"/>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_tS7JtbXWEeabfPHhUTXoyQ" borderSize="2" borderSizeComputationExpression="2" backgroundColor="255,245,181">
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']"/>
+      <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_tS7JtrXWEeabfPHhUTXoyQ" name="Officer" childrenPresentation="VerticalStack">
+        <target xmi:type="un.asydev.editor.dpp:BusinessUnit" href="Second.dpp#//@dppContainer/@businessUnits[name='Officer']"/>
+        <semanticElements xmi:type="un.asydev.editor.dpp:BusinessUnit" href="Second.dpp#//@dppContainer/@businessUnits[name='Officer']"/>
+        <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_tS7Jt7XWEeabfPHhUTXoyQ" borderSize="1" borderSizeComputationExpression="1" backgroundColor="253,206,137">
+          <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']"/>
+        <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_tS7JuLXWEeabfPHhUTXoyQ" name="Register">
+          <target xmi:type="un.asydev.editor.dpp:AggregableOperation" href="Second.dpp#//@dppContainer/@operations[name='Register']"/>
+          <semanticElements xmi:type="un.asydev.editor.dpp:AggregableOperation" href="Second.dpp#//@dppContainer/@operations[name='Register']"/>
+          <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_tS7JubXWEeabfPHhUTXoyQ" borderSize="1" borderSizeComputationExpression="1" backgroundColor="209,209,209" foregroundColor="69,69,69">
+            <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']"/>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_tS7JurXWEeabfPHhUTXoyQ" name="Update">
+          <target xmi:type="un.asydev.editor.dpp:AggregableOperation" href="Second.dpp#//@dppContainer/@operations[name='Update']"/>
+          <semanticElements xmi:type="un.asydev.editor.dpp:AggregableOperation" href="Second.dpp#//@dppContainer/@operations[name='Update']"/>
+          <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_tS7Ju7XWEeabfPHhUTXoyQ" borderSize="1" borderSizeComputationExpression="1" backgroundColor="209,209,209" foregroundColor="69,69,69">
+            <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']"/>
+        </ownedDiagramElements>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_tS7JvLXWEeabfPHhUTXoyQ" name="Supervisor" childrenPresentation="VerticalStack">
+        <target xmi:type="un.asydev.editor.dpp:BusinessUnit" href="Second.dpp#//@dppContainer/@businessUnits[name='Supervisor']"/>
+        <semanticElements xmi:type="un.asydev.editor.dpp:BusinessUnit" href="Second.dpp#//@dppContainer/@businessUnits[name='Supervisor']"/>
+        <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_tS7JvbXWEeabfPHhUTXoyQ" borderSize="1" borderSizeComputationExpression="1" backgroundColor="253,206,137">
+          <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']"/>
+        <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_tS7JvrXWEeabfPHhUTXoyQ" name="Register">
+          <target xmi:type="un.asydev.editor.dpp:AggregableOperation" href="Second.dpp#//@dppContainer/@operations[name='Register']"/>
+          <semanticElements xmi:type="un.asydev.editor.dpp:AggregableOperation" href="Second.dpp#//@dppContainer/@operations[name='Register']"/>
+          <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_tS7Jv7XWEeabfPHhUTXoyQ" borderSize="1" borderSizeComputationExpression="1" backgroundColor="209,209,209" foregroundColor="69,69,69">
+            <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']"/>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_tS7JwLXWEeabfPHhUTXoyQ" name="Update">
+          <target xmi:type="un.asydev.editor.dpp:AggregableOperation" href="Second.dpp#//@dppContainer/@operations[name='Update']"/>
+          <semanticElements xmi:type="un.asydev.editor.dpp:AggregableOperation" href="Second.dpp#//@dppContainer/@operations[name='Update']"/>
+          <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_tS7JwbXWEeabfPHhUTXoyQ" borderSize="1" borderSizeComputationExpression="1" backgroundColor="209,209,209" foregroundColor="69,69,69">
+            <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']"/>
+        </ownedDiagramElements>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_tS7JwrXWEeabfPHhUTXoyQ" name="Manager" childrenPresentation="VerticalStack">
+        <target xmi:type="un.asydev.editor.dpp:BusinessUnit" href="Second.dpp#//@dppContainer/@businessUnits[name='Manager']"/>
+        <semanticElements xmi:type="un.asydev.editor.dpp:BusinessUnit" href="Second.dpp#//@dppContainer/@businessUnits[name='Manager']"/>
+        <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_tS7Jw7XWEeabfPHhUTXoyQ" borderSize="1" borderSizeComputationExpression="1" backgroundColor="253,206,137">
+          <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']"/>
+        <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_tS7JxLXWEeabfPHhUTXoyQ" name="Register">
+          <target xmi:type="un.asydev.editor.dpp:AggregableOperation" href="Second.dpp#//@dppContainer/@operations[name='Register']"/>
+          <semanticElements xmi:type="un.asydev.editor.dpp:AggregableOperation" href="Second.dpp#//@dppContainer/@operations[name='Register']"/>
+          <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_tS7JxbXWEeabfPHhUTXoyQ" borderSize="1" borderSizeComputationExpression="1" backgroundColor="209,209,209" foregroundColor="69,69,69">
+            <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']"/>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_tS7JxrXWEeabfPHhUTXoyQ" name="Update">
+          <target xmi:type="un.asydev.editor.dpp:AggregableOperation" href="Second.dpp#//@dppContainer/@operations[name='Update']"/>
+          <semanticElements xmi:type="un.asydev.editor.dpp:AggregableOperation" href="Second.dpp#//@dppContainer/@operations[name='Update']"/>
+          <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_tS7Jx7XWEeabfPHhUTXoyQ" borderSize="1" borderSizeComputationExpression="1" backgroundColor="209,209,209" foregroundColor="69,69,69">
+            <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']"/>
+        </ownedDiagramElements>
+      </ownedDiagramElements>
+    </ownedDiagramElements>
+    <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']"/>
+    <filterVariableHistory xmi:type="diagram:FilterVariableHistory" xmi:id="_tS7JyLXWEeabfPHhUTXoyQ"/>
+    <activatedLayers xmi:type="description_1:Layer" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer"/>
+    <target xmi:type="un.asydev.editor.dpp:Document" href="Second.dpp#/"/>
+  </diagram:DSemanticDiagram>
+  <diagram:DSemanticDiagram xmi:id="_2ikJEbXWEeabfPHhUTXoyQ" name="DPP Diagram">
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" xmi:id="_2ikJErXWEeabfPHhUTXoyQ" source="DANNOTATION_CUSTOMIZATION_KEY">
+      <data xmi:type="diagram:ComputedStyleDescriptionRegistry" xmi:id="_2ikJE7XWEeabfPHhUTXoyQ"/>
+    </ownedAnnotationEntries>
+    <ownedAnnotationEntries xmi:type="description:AnnotationEntry" xmi:id="_2itTDbXWEeabfPHhUTXoyQ" source="GMF_DIAGRAMS">
+      <data xmi:type="notation:Diagram" xmi:id="_2itTDrXWEeabfPHhUTXoyQ" type="Sirius" element="_2ikJEbXWEeabfPHhUTXoyQ" measurementUnit="Pixel">
+        <children xmi:type="notation:Node" xmi:id="_2itTELXWEeabfPHhUTXoyQ" type="2002" element="_2ikJFLXWEeabfPHhUTXoyQ">
+          <children xmi:type="notation:Node" xmi:id="_2itTE7XWEeabfPHhUTXoyQ" type="5006"/>
+          <children xmi:type="notation:Node" xmi:id="_2itTFLXWEeabfPHhUTXoyQ" type="7001">
+            <children xmi:type="notation:Node" xmi:id="_2itTF7XWEeabfPHhUTXoyQ" type="3008" element="_2ikJFrXWEeabfPHhUTXoyQ">
+              <children xmi:type="notation:Node" xmi:id="_2itTGrXWEeabfPHhUTXoyQ" type="5005"/>
+              <children xmi:type="notation:Node" xmi:id="_2itTG7XWEeabfPHhUTXoyQ" type="7002">
+                <children xmi:type="notation:Node" xmi:id="_2itTL7XWEeabfPHhUTXoyQ" type="3008" element="_2ikJGLXWEeabfPHhUTXoyQ">
+                  <children xmi:type="notation:Node" xmi:id="_2itTMrXWEeabfPHhUTXoyQ" type="5005"/>
+                  <children xmi:type="notation:Node" xmi:id="_2itTM7XWEeabfPHhUTXoyQ" type="7002">
+                    <children xmi:type="notation:Node" xmi:id="_p4cKYLXXEeaTi-UnM-ex0Q" type="3007" element="_p4JPcLXXEeaTi-UnM-ex0Q">
+                      <children xmi:type="notation:Node" xmi:id="_p4lUULXXEeaTi-UnM-ex0Q" type="5003">
+                        <layoutConstraint xmi:type="notation:Location" xmi:id="_p4lUUbXXEeaTi-UnM-ex0Q" y="5"/>
+                      </children>
+                      <children xmi:type="notation:Node" xmi:id="_p4lUV7XXEeaTi-UnM-ex0Q" type="3003" element="_p4JPcbXXEeaTi-UnM-ex0Q">
+                        <styles xmi:type="notation:ShapeStyle" xmi:id="_p4lUWLXXEeaTi-UnM-ex0Q" fontName="Segoe UI"/>
+                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p4lUWbXXEeaTi-UnM-ex0Q"/>
+                      </children>
+                      <styles xmi:type="notation:ShapeStyle" xmi:id="_p4cKYbXXEeaTi-UnM-ex0Q" fontName="Segoe UI" fontHeight="8"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p4cKYrXXEeaTi-UnM-ex0Q" width="30" height="30"/>
+                    </children>
+                    <children xmi:type="notation:Node" xmi:id="_p4lUUrXXEeaTi-UnM-ex0Q" type="3007" element="_p4JPcrXXEeaTi-UnM-ex0Q">
+                      <children xmi:type="notation:Node" xmi:id="_p4lUVbXXEeaTi-UnM-ex0Q" type="5003">
+                        <layoutConstraint xmi:type="notation:Location" xmi:id="_p4lUVrXXEeaTi-UnM-ex0Q" y="5"/>
+                      </children>
+                      <children xmi:type="notation:Node" xmi:id="_p4lUWrXXEeaTi-UnM-ex0Q" type="3003" element="_p4JPc7XXEeaTi-UnM-ex0Q">
+                        <styles xmi:type="notation:ShapeStyle" xmi:id="_p4lUW7XXEeaTi-UnM-ex0Q" fontName="Segoe UI"/>
+                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p4lUXLXXEeaTi-UnM-ex0Q"/>
+                      </children>
+                      <styles xmi:type="notation:ShapeStyle" xmi:id="_p4lUU7XXEeaTi-UnM-ex0Q" fontName="Segoe UI" fontHeight="8"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p4lUVLXXEeaTi-UnM-ex0Q" width="30" height="30"/>
+                    </children>
+                    <styles xmi:type="notation:SortingStyle" xmi:id="_2itTNLXWEeabfPHhUTXoyQ"/>
+                    <styles xmi:type="notation:FilteringStyle" xmi:id="_2itTNbXWEeabfPHhUTXoyQ"/>
+                    <styles xmi:type="notation:DrawerStyle" xmi:id="_2itTNrXWEeabfPHhUTXoyQ"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_2itTMLXWEeabfPHhUTXoyQ" fontName="Segoe UI" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2itTMbXWEeabfPHhUTXoyQ"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_2itTN7XWEeabfPHhUTXoyQ" type="3008" element="_2ikJGrXWEeabfPHhUTXoyQ">
+                  <children xmi:type="notation:Node" xmi:id="_2itTOrXWEeabfPHhUTXoyQ" type="5005"/>
+                  <children xmi:type="notation:Node" xmi:id="_2itTO7XWEeabfPHhUTXoyQ" type="7002">
+                    <children xmi:type="notation:Node" xmi:id="_p4lUXbXXEeaTi-UnM-ex0Q" type="3007" element="_p4SZYLXXEeaTi-UnM-ex0Q">
+                      <children xmi:type="notation:Node" xmi:id="_p4lUYLXXEeaTi-UnM-ex0Q" type="5003">
+                        <layoutConstraint xmi:type="notation:Location" xmi:id="_p4lUYbXXEeaTi-UnM-ex0Q" y="5"/>
+                      </children>
+                      <children xmi:type="notation:Node" xmi:id="_p4lUZ7XXEeaTi-UnM-ex0Q" type="3003" element="_p4SZYbXXEeaTi-UnM-ex0Q">
+                        <styles xmi:type="notation:ShapeStyle" xmi:id="_p4lUaLXXEeaTi-UnM-ex0Q" fontName="Segoe UI"/>
+                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p4lUabXXEeaTi-UnM-ex0Q"/>
+                      </children>
+                      <styles xmi:type="notation:ShapeStyle" xmi:id="_p4lUXrXXEeaTi-UnM-ex0Q" fontName="Segoe UI" fontHeight="8"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p4lUX7XXEeaTi-UnM-ex0Q" width="30" height="30"/>
+                    </children>
+                    <children xmi:type="notation:Node" xmi:id="_p4lUYrXXEeaTi-UnM-ex0Q" type="3007" element="_p4SZYrXXEeaTi-UnM-ex0Q">
+                      <children xmi:type="notation:Node" xmi:id="_p4lUZbXXEeaTi-UnM-ex0Q" type="5003">
+                        <layoutConstraint xmi:type="notation:Location" xmi:id="_p4lUZrXXEeaTi-UnM-ex0Q" y="5"/>
+                      </children>
+                      <children xmi:type="notation:Node" xmi:id="_p4lUarXXEeaTi-UnM-ex0Q" type="3003" element="_p4SZY7XXEeaTi-UnM-ex0Q">
+                        <styles xmi:type="notation:ShapeStyle" xmi:id="_p4lUa7XXEeaTi-UnM-ex0Q" fontName="Segoe UI"/>
+                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p4lUbLXXEeaTi-UnM-ex0Q"/>
+                      </children>
+                      <styles xmi:type="notation:ShapeStyle" xmi:id="_p4lUY7XXEeaTi-UnM-ex0Q" fontName="Segoe UI" fontHeight="8"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p4lUZLXXEeaTi-UnM-ex0Q" width="30" height="30"/>
+                    </children>
+                    <styles xmi:type="notation:SortingStyle" xmi:id="_2itTPLXWEeabfPHhUTXoyQ"/>
+                    <styles xmi:type="notation:FilteringStyle" xmi:id="_2itTPbXWEeabfPHhUTXoyQ"/>
+                    <styles xmi:type="notation:DrawerStyle" xmi:id="_2itTPrXWEeabfPHhUTXoyQ"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_2itTOLXWEeabfPHhUTXoyQ" fontName="Segoe UI" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2itTObXWEeabfPHhUTXoyQ" y="40"/>
+                </children>
+                <styles xmi:type="notation:SortingStyle" xmi:id="_2itTHLXWEeabfPHhUTXoyQ"/>
+                <styles xmi:type="notation:FilteringStyle" xmi:id="_2itTHbXWEeabfPHhUTXoyQ"/>
+                <styles xmi:type="notation:DrawerStyle" xmi:id="_2itTHrXWEeabfPHhUTXoyQ"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_2itTGLXWEeabfPHhUTXoyQ" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2itTGbXWEeabfPHhUTXoyQ"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_2itTH7XWEeabfPHhUTXoyQ" type="3008" element="_2itTALXWEeabfPHhUTXoyQ">
+              <children xmi:type="notation:Node" xmi:id="_2itTIrXWEeabfPHhUTXoyQ" type="5005"/>
+              <children xmi:type="notation:Node" xmi:id="_2itTI7XWEeabfPHhUTXoyQ" type="7002">
+                <children xmi:type="notation:Node" xmi:id="_2itTP7XWEeabfPHhUTXoyQ" type="3008" element="_2itTArXWEeabfPHhUTXoyQ">
+                  <children xmi:type="notation:Node" xmi:id="_2itTQrXWEeabfPHhUTXoyQ" type="5005"/>
+                  <children xmi:type="notation:Node" xmi:id="_2itTQ7XWEeabfPHhUTXoyQ" type="7002">
+                    <children xmi:type="notation:Node" xmi:id="_p4lUbbXXEeaTi-UnM-ex0Q" type="3007" element="_p4SZZLXXEeaTi-UnM-ex0Q">
+                      <children xmi:type="notation:Node" xmi:id="_p4lUcLXXEeaTi-UnM-ex0Q" type="5003">
+                        <layoutConstraint xmi:type="notation:Location" xmi:id="_p4lUcbXXEeaTi-UnM-ex0Q" y="5"/>
+                      </children>
+                      <children xmi:type="notation:Node" xmi:id="_p4lUd7XXEeaTi-UnM-ex0Q" type="3003" element="_p4SZZbXXEeaTi-UnM-ex0Q">
+                        <styles xmi:type="notation:ShapeStyle" xmi:id="_p4lUeLXXEeaTi-UnM-ex0Q" fontName="Segoe UI"/>
+                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p4lUebXXEeaTi-UnM-ex0Q"/>
+                      </children>
+                      <styles xmi:type="notation:ShapeStyle" xmi:id="_p4lUbrXXEeaTi-UnM-ex0Q" fontName="Segoe UI" fontHeight="8"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p4lUb7XXEeaTi-UnM-ex0Q" width="30" height="30"/>
+                    </children>
+                    <children xmi:type="notation:Node" xmi:id="_p4lUcrXXEeaTi-UnM-ex0Q" type="3007" element="_p4SZZrXXEeaTi-UnM-ex0Q">
+                      <children xmi:type="notation:Node" xmi:id="_p4lUdbXXEeaTi-UnM-ex0Q" type="5003">
+                        <layoutConstraint xmi:type="notation:Location" xmi:id="_p4lUdrXXEeaTi-UnM-ex0Q" y="5"/>
+                      </children>
+                      <children xmi:type="notation:Node" xmi:id="_p4vFULXXEeaTi-UnM-ex0Q" type="3003" element="_p4SZZ7XXEeaTi-UnM-ex0Q">
+                        <styles xmi:type="notation:ShapeStyle" xmi:id="_p4vFUbXXEeaTi-UnM-ex0Q" fontName="Segoe UI"/>
+                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p4vFUrXXEeaTi-UnM-ex0Q"/>
+                      </children>
+                      <styles xmi:type="notation:ShapeStyle" xmi:id="_p4lUc7XXEeaTi-UnM-ex0Q" fontName="Segoe UI" fontHeight="8"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p4lUdLXXEeaTi-UnM-ex0Q" width="30" height="30"/>
+                    </children>
+                    <styles xmi:type="notation:SortingStyle" xmi:id="_2itTRLXWEeabfPHhUTXoyQ"/>
+                    <styles xmi:type="notation:FilteringStyle" xmi:id="_2itTRbXWEeabfPHhUTXoyQ"/>
+                    <styles xmi:type="notation:DrawerStyle" xmi:id="_2itTRrXWEeabfPHhUTXoyQ"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_2itTQLXWEeabfPHhUTXoyQ" fontName="Segoe UI" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2itTQbXWEeabfPHhUTXoyQ"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_2itTR7XWEeabfPHhUTXoyQ" type="3008" element="_2itTBLXWEeabfPHhUTXoyQ">
+                  <children xmi:type="notation:Node" xmi:id="_2itTSrXWEeabfPHhUTXoyQ" type="5005"/>
+                  <children xmi:type="notation:Node" xmi:id="_2itTS7XWEeabfPHhUTXoyQ" type="7002">
+                    <children xmi:type="notation:Node" xmi:id="_p4vFU7XXEeaTi-UnM-ex0Q" type="3007" element="_p4SZaLXXEeaTi-UnM-ex0Q">
+                      <children xmi:type="notation:Node" xmi:id="_p4vFVrXXEeaTi-UnM-ex0Q" type="5003">
+                        <layoutConstraint xmi:type="notation:Location" xmi:id="_p4vFV7XXEeaTi-UnM-ex0Q" y="5"/>
+                      </children>
+                      <children xmi:type="notation:Node" xmi:id="_p4vFXbXXEeaTi-UnM-ex0Q" type="3003" element="_p4SZabXXEeaTi-UnM-ex0Q">
+                        <styles xmi:type="notation:ShapeStyle" xmi:id="_p4vFXrXXEeaTi-UnM-ex0Q" fontName="Segoe UI"/>
+                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p4vFX7XXEeaTi-UnM-ex0Q"/>
+                      </children>
+                      <styles xmi:type="notation:ShapeStyle" xmi:id="_p4vFVLXXEeaTi-UnM-ex0Q" fontName="Segoe UI" fontHeight="8"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p4vFVbXXEeaTi-UnM-ex0Q" width="30" height="30"/>
+                    </children>
+                    <children xmi:type="notation:Node" xmi:id="_p4vFWLXXEeaTi-UnM-ex0Q" type="3007" element="_p4SZarXXEeaTi-UnM-ex0Q">
+                      <children xmi:type="notation:Node" xmi:id="_p4vFW7XXEeaTi-UnM-ex0Q" type="5003">
+                        <layoutConstraint xmi:type="notation:Location" xmi:id="_p4vFXLXXEeaTi-UnM-ex0Q" y="5"/>
+                      </children>
+                      <children xmi:type="notation:Node" xmi:id="_p4vFYLXXEeaTi-UnM-ex0Q" type="3003" element="_p4SZa7XXEeaTi-UnM-ex0Q">
+                        <styles xmi:type="notation:ShapeStyle" xmi:id="_p4vFYbXXEeaTi-UnM-ex0Q" fontName="Segoe UI"/>
+                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p4vFYrXXEeaTi-UnM-ex0Q"/>
+                      </children>
+                      <styles xmi:type="notation:ShapeStyle" xmi:id="_p4vFWbXXEeaTi-UnM-ex0Q" fontName="Segoe UI" fontHeight="8"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p4vFWrXXEeaTi-UnM-ex0Q" width="30" height="30"/>
+                    </children>
+                    <styles xmi:type="notation:SortingStyle" xmi:id="_2itTTLXWEeabfPHhUTXoyQ"/>
+                    <styles xmi:type="notation:FilteringStyle" xmi:id="_2itTTbXWEeabfPHhUTXoyQ"/>
+                    <styles xmi:type="notation:DrawerStyle" xmi:id="_2itTTrXWEeabfPHhUTXoyQ"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_2itTSLXWEeabfPHhUTXoyQ" fontName="Segoe UI" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2itTSbXWEeabfPHhUTXoyQ" y="40"/>
+                </children>
+                <styles xmi:type="notation:SortingStyle" xmi:id="_2itTJLXWEeabfPHhUTXoyQ"/>
+                <styles xmi:type="notation:FilteringStyle" xmi:id="_2itTJbXWEeabfPHhUTXoyQ"/>
+                <styles xmi:type="notation:DrawerStyle" xmi:id="_2itTJrXWEeabfPHhUTXoyQ"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_2itTILXWEeabfPHhUTXoyQ" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2itTIbXWEeabfPHhUTXoyQ" x="40"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_2itTJ7XWEeabfPHhUTXoyQ" type="3008" element="_2itTBrXWEeabfPHhUTXoyQ">
+              <children xmi:type="notation:Node" xmi:id="_2itTKrXWEeabfPHhUTXoyQ" type="5005"/>
+              <children xmi:type="notation:Node" xmi:id="_2itTK7XWEeabfPHhUTXoyQ" type="7002">
+                <children xmi:type="notation:Node" xmi:id="_2itTT7XWEeabfPHhUTXoyQ" type="3008" element="_2itTCLXWEeabfPHhUTXoyQ">
+                  <children xmi:type="notation:Node" xmi:id="_2itTUrXWEeabfPHhUTXoyQ" type="5005"/>
+                  <children xmi:type="notation:Node" xmi:id="_2itTU7XWEeabfPHhUTXoyQ" type="7002">
+                    <children xmi:type="notation:Node" xmi:id="_p4vFY7XXEeaTi-UnM-ex0Q" type="3007" element="_p4SZbLXXEeaTi-UnM-ex0Q">
+                      <children xmi:type="notation:Node" xmi:id="_p4vFZrXXEeaTi-UnM-ex0Q" type="5003">
+                        <layoutConstraint xmi:type="notation:Location" xmi:id="_p4vFZ7XXEeaTi-UnM-ex0Q" y="5"/>
+                      </children>
+                      <children xmi:type="notation:Node" xmi:id="_p4vFbbXXEeaTi-UnM-ex0Q" type="3003" element="_p4SZbbXXEeaTi-UnM-ex0Q">
+                        <styles xmi:type="notation:ShapeStyle" xmi:id="_p4vFbrXXEeaTi-UnM-ex0Q" fontName="Segoe UI"/>
+                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p4vFb7XXEeaTi-UnM-ex0Q"/>
+                      </children>
+                      <styles xmi:type="notation:ShapeStyle" xmi:id="_p4vFZLXXEeaTi-UnM-ex0Q" fontName="Segoe UI" fontHeight="8"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p4vFZbXXEeaTi-UnM-ex0Q" width="30" height="30"/>
+                    </children>
+                    <children xmi:type="notation:Node" xmi:id="_p4vFaLXXEeaTi-UnM-ex0Q" type="3007" element="_p4SZbrXXEeaTi-UnM-ex0Q">
+                      <children xmi:type="notation:Node" xmi:id="_p4vFa7XXEeaTi-UnM-ex0Q" type="5003">
+                        <layoutConstraint xmi:type="notation:Location" xmi:id="_p4vFbLXXEeaTi-UnM-ex0Q" y="5"/>
+                      </children>
+                      <children xmi:type="notation:Node" xmi:id="_p4vFcLXXEeaTi-UnM-ex0Q" type="3003" element="_p4SZb7XXEeaTi-UnM-ex0Q">
+                        <styles xmi:type="notation:ShapeStyle" xmi:id="_p4vFcbXXEeaTi-UnM-ex0Q" fontName="Segoe UI"/>
+                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p4vFcrXXEeaTi-UnM-ex0Q"/>
+                      </children>
+                      <styles xmi:type="notation:ShapeStyle" xmi:id="_p4vFabXXEeaTi-UnM-ex0Q" fontName="Segoe UI" fontHeight="8"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p4vFarXXEeaTi-UnM-ex0Q" width="30" height="30"/>
+                    </children>
+                    <styles xmi:type="notation:SortingStyle" xmi:id="_2itTVLXWEeabfPHhUTXoyQ"/>
+                    <styles xmi:type="notation:FilteringStyle" xmi:id="_2itTVbXWEeabfPHhUTXoyQ"/>
+                    <styles xmi:type="notation:DrawerStyle" xmi:id="_2itTVrXWEeabfPHhUTXoyQ"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_2itTULXWEeabfPHhUTXoyQ" fontName="Segoe UI" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2itTUbXWEeabfPHhUTXoyQ"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_2itTV7XWEeabfPHhUTXoyQ" type="3008" element="_2itTCrXWEeabfPHhUTXoyQ">
+                  <children xmi:type="notation:Node" xmi:id="_2itTWrXWEeabfPHhUTXoyQ" type="5005"/>
+                  <children xmi:type="notation:Node" xmi:id="_2itTW7XWEeabfPHhUTXoyQ" type="7002">
+                    <children xmi:type="notation:Node" xmi:id="_p4vFc7XXEeaTi-UnM-ex0Q" type="3007" element="_p4SZcLXXEeaTi-UnM-ex0Q">
+                      <children xmi:type="notation:Node" xmi:id="_p4vFdrXXEeaTi-UnM-ex0Q" type="5003">
+                        <layoutConstraint xmi:type="notation:Location" xmi:id="_p4vFd7XXEeaTi-UnM-ex0Q" y="5"/>
+                      </children>
+                      <children xmi:type="notation:Node" xmi:id="_p4vFfbXXEeaTi-UnM-ex0Q" type="3003" element="_p4SZcbXXEeaTi-UnM-ex0Q">
+                        <styles xmi:type="notation:ShapeStyle" xmi:id="_p4vFfrXXEeaTi-UnM-ex0Q" fontName="Segoe UI"/>
+                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p4vFf7XXEeaTi-UnM-ex0Q"/>
+                      </children>
+                      <styles xmi:type="notation:ShapeStyle" xmi:id="_p4vFdLXXEeaTi-UnM-ex0Q" fontName="Segoe UI" fontHeight="8"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p4vFdbXXEeaTi-UnM-ex0Q" width="30" height="30"/>
+                    </children>
+                    <children xmi:type="notation:Node" xmi:id="_p4vFeLXXEeaTi-UnM-ex0Q" type="3007" element="_p4SZcrXXEeaTi-UnM-ex0Q">
+                      <children xmi:type="notation:Node" xmi:id="_p4vFe7XXEeaTi-UnM-ex0Q" type="5003">
+                        <layoutConstraint xmi:type="notation:Location" xmi:id="_p4vFfLXXEeaTi-UnM-ex0Q" y="5"/>
+                      </children>
+                      <children xmi:type="notation:Node" xmi:id="_p4vFgLXXEeaTi-UnM-ex0Q" type="3003" element="_p4SZc7XXEeaTi-UnM-ex0Q">
+                        <styles xmi:type="notation:ShapeStyle" xmi:id="_p4vFgbXXEeaTi-UnM-ex0Q" fontName="Segoe UI"/>
+                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p4vFgrXXEeaTi-UnM-ex0Q"/>
+                      </children>
+                      <styles xmi:type="notation:ShapeStyle" xmi:id="_p4vFebXXEeaTi-UnM-ex0Q" fontName="Segoe UI" fontHeight="8"/>
+                      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p4vFerXXEeaTi-UnM-ex0Q" width="30" height="30"/>
+                    </children>
+                    <styles xmi:type="notation:SortingStyle" xmi:id="_2itTXLXWEeabfPHhUTXoyQ"/>
+                    <styles xmi:type="notation:FilteringStyle" xmi:id="_2itTXbXWEeabfPHhUTXoyQ"/>
+                    <styles xmi:type="notation:DrawerStyle" xmi:id="_2itTXrXWEeabfPHhUTXoyQ"/>
+                  </children>
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_2itTWLXWEeabfPHhUTXoyQ" fontName="Segoe UI" fontHeight="8"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2itTWbXWEeabfPHhUTXoyQ" y="40"/>
+                </children>
+                <styles xmi:type="notation:SortingStyle" xmi:id="_2itTLLXWEeabfPHhUTXoyQ"/>
+                <styles xmi:type="notation:FilteringStyle" xmi:id="_2itTLbXWEeabfPHhUTXoyQ"/>
+                <styles xmi:type="notation:DrawerStyle" xmi:id="_2itTLrXWEeabfPHhUTXoyQ"/>
+              </children>
+              <styles xmi:type="notation:ShapeStyle" xmi:id="_2itTKLXWEeabfPHhUTXoyQ" fontName="Segoe UI" fontHeight="8"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2itTKbXWEeabfPHhUTXoyQ" x="80"/>
+            </children>
+            <styles xmi:type="notation:SortingStyle" xmi:id="_2itTFbXWEeabfPHhUTXoyQ"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_2itTFrXWEeabfPHhUTXoyQ"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_2itTEbXWEeabfPHhUTXoyQ" fontName="Segoe UI" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2itTErXWEeabfPHhUTXoyQ"/>
+        </children>
+        <styles xmi:type="notation:DiagramStyle" xmi:id="_2itTD7XWEeabfPHhUTXoyQ"/>
+      </data>
+    </ownedAnnotationEntries>
+    <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_2ikJFLXWEeabfPHhUTXoyQ" childrenPresentation="HorizontalStack">
+      <target xmi:type="un.asydev.editor.dpp:DppContainer" href="Second.dpp#//@dppContainer"/>
+      <semanticElements xmi:type="un.asydev.editor.dpp:DppContainer" href="Second.dpp#//@dppContainer"/>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_2ikJFbXWEeabfPHhUTXoyQ" borderSize="2" borderSizeComputationExpression="2" backgroundColor="255,245,181">
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']"/>
+      <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_2ikJFrXWEeabfPHhUTXoyQ" name="Officer" childrenPresentation="VerticalStack">
+        <target xmi:type="un.asydev.editor.dpp:BusinessUnit" href="Second.dpp#//@dppContainer/@businessUnits[name='Officer']"/>
+        <semanticElements xmi:type="un.asydev.editor.dpp:BusinessUnit" href="Second.dpp#//@dppContainer/@businessUnits[name='Officer']"/>
+        <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_2ikJF7XWEeabfPHhUTXoyQ" borderSize="1" borderSizeComputationExpression="1" backgroundColor="253,206,137">
+          <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']"/>
+        <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_2ikJGLXWEeabfPHhUTXoyQ" name="Register">
+          <target xmi:type="un.asydev.editor.dpp:AggregableOperation" href="Second.dpp#//@dppContainer/@operations[name='Register']"/>
+          <semanticElements xmi:type="un.asydev.editor.dpp:AggregableOperation" href="Second.dpp#//@dppContainer/@operations[name='Register']"/>
+          <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_2ikJGbXWEeabfPHhUTXoyQ" borderSize="1" borderSizeComputationExpression="1" backgroundColor="209,209,209" foregroundColor="69,69,69">
+            <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']"/>
+          <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_p4JPcLXXEeaTi-UnM-ex0Q" name="Invalid feature as name" width="3" height="3" resizeKind="NSEW">
+            <target xmi:type="un.asydev.editor.dpp:DPPTransition" href="Second.dpp#//@dppContainer/@transitions.0"/>
+            <semanticElements xmi:type="un.asydev.editor.dpp:DPPTransition" href="Second.dpp#//@dppContainer/@transitions.0"/>
+            <ownedStyle xmi:type="diagram:Square" xmi:id="_p4JPcbXXEeaTi-UnM-ex0Q" labelPosition="node">
+              <description xmi:type="style:SquareDescription" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']/@subNodeMappings[name='Transition']/@style"/>
+            </ownedStyle>
+            <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']/@subNodeMappings[name='Transition']"/>
+          </ownedDiagramElements>
+          <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_p4JPcrXXEeaTi-UnM-ex0Q" name="Invalid feature as name" width="3" height="3" resizeKind="NSEW">
+            <target xmi:type="un.asydev.editor.dpp:DPPTransition" href="Second.dpp#//@dppContainer/@transitions.1"/>
+            <semanticElements xmi:type="un.asydev.editor.dpp:DPPTransition" href="Second.dpp#//@dppContainer/@transitions.1"/>
+            <ownedStyle xmi:type="diagram:Square" xmi:id="_p4JPc7XXEeaTi-UnM-ex0Q" labelPosition="node">
+              <description xmi:type="style:SquareDescription" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']/@subNodeMappings[name='Transition']/@style"/>
+            </ownedStyle>
+            <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']/@subNodeMappings[name='Transition']"/>
+          </ownedDiagramElements>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_2ikJGrXWEeabfPHhUTXoyQ" name="Update">
+          <target xmi:type="un.asydev.editor.dpp:AggregableOperation" href="Second.dpp#//@dppContainer/@operations[name='Update']"/>
+          <semanticElements xmi:type="un.asydev.editor.dpp:AggregableOperation" href="Second.dpp#//@dppContainer/@operations[name='Update']"/>
+          <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_2ikJG7XWEeabfPHhUTXoyQ" borderSize="1" borderSizeComputationExpression="1" backgroundColor="209,209,209" foregroundColor="69,69,69">
+            <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']"/>
+          <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_p4SZYLXXEeaTi-UnM-ex0Q" name="Invalid feature as name" width="3" height="3" resizeKind="NSEW">
+            <target xmi:type="un.asydev.editor.dpp:DPPTransition" href="Second.dpp#//@dppContainer/@transitions.0"/>
+            <semanticElements xmi:type="un.asydev.editor.dpp:DPPTransition" href="Second.dpp#//@dppContainer/@transitions.0"/>
+            <ownedStyle xmi:type="diagram:Square" xmi:id="_p4SZYbXXEeaTi-UnM-ex0Q" labelPosition="node">
+              <description xmi:type="style:SquareDescription" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']/@subNodeMappings[name='Transition']/@style"/>
+            </ownedStyle>
+            <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']/@subNodeMappings[name='Transition']"/>
+          </ownedDiagramElements>
+          <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_p4SZYrXXEeaTi-UnM-ex0Q" name="Invalid feature as name" width="3" height="3" resizeKind="NSEW">
+            <target xmi:type="un.asydev.editor.dpp:DPPTransition" href="Second.dpp#//@dppContainer/@transitions.1"/>
+            <semanticElements xmi:type="un.asydev.editor.dpp:DPPTransition" href="Second.dpp#//@dppContainer/@transitions.1"/>
+            <ownedStyle xmi:type="diagram:Square" xmi:id="_p4SZY7XXEeaTi-UnM-ex0Q" labelPosition="node">
+              <description xmi:type="style:SquareDescription" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']/@subNodeMappings[name='Transition']/@style"/>
+            </ownedStyle>
+            <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']/@subNodeMappings[name='Transition']"/>
+          </ownedDiagramElements>
+        </ownedDiagramElements>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_2itTALXWEeabfPHhUTXoyQ" name="Supervisor" childrenPresentation="VerticalStack">
+        <target xmi:type="un.asydev.editor.dpp:BusinessUnit" href="Second.dpp#//@dppContainer/@businessUnits[name='Supervisor']"/>
+        <semanticElements xmi:type="un.asydev.editor.dpp:BusinessUnit" href="Second.dpp#//@dppContainer/@businessUnits[name='Supervisor']"/>
+        <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_2itTAbXWEeabfPHhUTXoyQ" borderSize="1" borderSizeComputationExpression="1" backgroundColor="253,206,137">
+          <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']"/>
+        <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_2itTArXWEeabfPHhUTXoyQ" name="Register">
+          <target xmi:type="un.asydev.editor.dpp:AggregableOperation" href="Second.dpp#//@dppContainer/@operations[name='Register']"/>
+          <semanticElements xmi:type="un.asydev.editor.dpp:AggregableOperation" href="Second.dpp#//@dppContainer/@operations[name='Register']"/>
+          <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_2itTA7XWEeabfPHhUTXoyQ" borderSize="1" borderSizeComputationExpression="1" backgroundColor="209,209,209" foregroundColor="69,69,69">
+            <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']"/>
+          <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_p4SZZLXXEeaTi-UnM-ex0Q" name="Invalid feature as name" width="3" height="3" resizeKind="NSEW">
+            <target xmi:type="un.asydev.editor.dpp:DPPTransition" href="Second.dpp#//@dppContainer/@transitions.0"/>
+            <semanticElements xmi:type="un.asydev.editor.dpp:DPPTransition" href="Second.dpp#//@dppContainer/@transitions.0"/>
+            <ownedStyle xmi:type="diagram:Square" xmi:id="_p4SZZbXXEeaTi-UnM-ex0Q" labelPosition="node">
+              <description xmi:type="style:SquareDescription" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']/@subNodeMappings[name='Transition']/@style"/>
+            </ownedStyle>
+            <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']/@subNodeMappings[name='Transition']"/>
+          </ownedDiagramElements>
+          <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_p4SZZrXXEeaTi-UnM-ex0Q" name="Invalid feature as name" width="3" height="3" resizeKind="NSEW">
+            <target xmi:type="un.asydev.editor.dpp:DPPTransition" href="Second.dpp#//@dppContainer/@transitions.1"/>
+            <semanticElements xmi:type="un.asydev.editor.dpp:DPPTransition" href="Second.dpp#//@dppContainer/@transitions.1"/>
+            <ownedStyle xmi:type="diagram:Square" xmi:id="_p4SZZ7XXEeaTi-UnM-ex0Q" labelPosition="node">
+              <description xmi:type="style:SquareDescription" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']/@subNodeMappings[name='Transition']/@style"/>
+            </ownedStyle>
+            <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']/@subNodeMappings[name='Transition']"/>
+          </ownedDiagramElements>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_2itTBLXWEeabfPHhUTXoyQ" name="Update">
+          <target xmi:type="un.asydev.editor.dpp:AggregableOperation" href="Second.dpp#//@dppContainer/@operations[name='Update']"/>
+          <semanticElements xmi:type="un.asydev.editor.dpp:AggregableOperation" href="Second.dpp#//@dppContainer/@operations[name='Update']"/>
+          <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_2itTBbXWEeabfPHhUTXoyQ" borderSize="1" borderSizeComputationExpression="1" backgroundColor="209,209,209" foregroundColor="69,69,69">
+            <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']"/>
+          <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_p4SZaLXXEeaTi-UnM-ex0Q" name="Invalid feature as name" width="3" height="3" resizeKind="NSEW">
+            <target xmi:type="un.asydev.editor.dpp:DPPTransition" href="Second.dpp#//@dppContainer/@transitions.0"/>
+            <semanticElements xmi:type="un.asydev.editor.dpp:DPPTransition" href="Second.dpp#//@dppContainer/@transitions.0"/>
+            <ownedStyle xmi:type="diagram:Square" xmi:id="_p4SZabXXEeaTi-UnM-ex0Q" labelPosition="node">
+              <description xmi:type="style:SquareDescription" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']/@subNodeMappings[name='Transition']/@style"/>
+            </ownedStyle>
+            <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']/@subNodeMappings[name='Transition']"/>
+          </ownedDiagramElements>
+          <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_p4SZarXXEeaTi-UnM-ex0Q" name="Invalid feature as name" width="3" height="3" resizeKind="NSEW">
+            <target xmi:type="un.asydev.editor.dpp:DPPTransition" href="Second.dpp#//@dppContainer/@transitions.1"/>
+            <semanticElements xmi:type="un.asydev.editor.dpp:DPPTransition" href="Second.dpp#//@dppContainer/@transitions.1"/>
+            <ownedStyle xmi:type="diagram:Square" xmi:id="_p4SZa7XXEeaTi-UnM-ex0Q" labelPosition="node">
+              <description xmi:type="style:SquareDescription" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']/@subNodeMappings[name='Transition']/@style"/>
+            </ownedStyle>
+            <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']/@subNodeMappings[name='Transition']"/>
+          </ownedDiagramElements>
+        </ownedDiagramElements>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_2itTBrXWEeabfPHhUTXoyQ" name="Manager" childrenPresentation="VerticalStack">
+        <target xmi:type="un.asydev.editor.dpp:BusinessUnit" href="Second.dpp#//@dppContainer/@businessUnits[name='Manager']"/>
+        <semanticElements xmi:type="un.asydev.editor.dpp:BusinessUnit" href="Second.dpp#//@dppContainer/@businessUnits[name='Manager']"/>
+        <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_2itTB7XWEeabfPHhUTXoyQ" borderSize="1" borderSizeComputationExpression="1" backgroundColor="253,206,137">
+          <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@style"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']"/>
+        <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_2itTCLXWEeabfPHhUTXoyQ" name="Register">
+          <target xmi:type="un.asydev.editor.dpp:AggregableOperation" href="Second.dpp#//@dppContainer/@operations[name='Register']"/>
+          <semanticElements xmi:type="un.asydev.editor.dpp:AggregableOperation" href="Second.dpp#//@dppContainer/@operations[name='Register']"/>
+          <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_2itTCbXWEeabfPHhUTXoyQ" borderSize="1" borderSizeComputationExpression="1" backgroundColor="209,209,209" foregroundColor="69,69,69">
+            <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']"/>
+          <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_p4SZbLXXEeaTi-UnM-ex0Q" name="Invalid feature as name" width="3" height="3" resizeKind="NSEW">
+            <target xmi:type="un.asydev.editor.dpp:DPPTransition" href="Second.dpp#//@dppContainer/@transitions.0"/>
+            <semanticElements xmi:type="un.asydev.editor.dpp:DPPTransition" href="Second.dpp#//@dppContainer/@transitions.0"/>
+            <ownedStyle xmi:type="diagram:Square" xmi:id="_p4SZbbXXEeaTi-UnM-ex0Q" labelPosition="node">
+              <description xmi:type="style:SquareDescription" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']/@subNodeMappings[name='Transition']/@style"/>
+            </ownedStyle>
+            <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']/@subNodeMappings[name='Transition']"/>
+          </ownedDiagramElements>
+          <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_p4SZbrXXEeaTi-UnM-ex0Q" name="Invalid feature as name" width="3" height="3" resizeKind="NSEW">
+            <target xmi:type="un.asydev.editor.dpp:DPPTransition" href="Second.dpp#//@dppContainer/@transitions.1"/>
+            <semanticElements xmi:type="un.asydev.editor.dpp:DPPTransition" href="Second.dpp#//@dppContainer/@transitions.1"/>
+            <ownedStyle xmi:type="diagram:Square" xmi:id="_p4SZb7XXEeaTi-UnM-ex0Q" labelPosition="node">
+              <description xmi:type="style:SquareDescription" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']/@subNodeMappings[name='Transition']/@style"/>
+            </ownedStyle>
+            <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']/@subNodeMappings[name='Transition']"/>
+          </ownedDiagramElements>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_2itTCrXWEeabfPHhUTXoyQ" name="Update">
+          <target xmi:type="un.asydev.editor.dpp:AggregableOperation" href="Second.dpp#//@dppContainer/@operations[name='Update']"/>
+          <semanticElements xmi:type="un.asydev.editor.dpp:AggregableOperation" href="Second.dpp#//@dppContainer/@operations[name='Update']"/>
+          <ownedStyle xmi:type="diagram:FlatContainerStyle" xmi:id="_2itTC7XWEeabfPHhUTXoyQ" borderSize="1" borderSizeComputationExpression="1" backgroundColor="209,209,209" foregroundColor="69,69,69">
+            <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']"/>
+          <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_p4SZcLXXEeaTi-UnM-ex0Q" name="Invalid feature as name" width="3" height="3" resizeKind="NSEW">
+            <target xmi:type="un.asydev.editor.dpp:DPPTransition" href="Second.dpp#//@dppContainer/@transitions.0"/>
+            <semanticElements xmi:type="un.asydev.editor.dpp:DPPTransition" href="Second.dpp#//@dppContainer/@transitions.0"/>
+            <ownedStyle xmi:type="diagram:Square" xmi:id="_p4SZcbXXEeaTi-UnM-ex0Q" labelPosition="node">
+              <description xmi:type="style:SquareDescription" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']/@subNodeMappings[name='Transition']/@style"/>
+            </ownedStyle>
+            <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']/@subNodeMappings[name='Transition']"/>
+          </ownedDiagramElements>
+          <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_p4SZcrXXEeaTi-UnM-ex0Q" name="Invalid feature as name" width="3" height="3" resizeKind="NSEW">
+            <target xmi:type="un.asydev.editor.dpp:DPPTransition" href="Second.dpp#//@dppContainer/@transitions.1"/>
+            <semanticElements xmi:type="un.asydev.editor.dpp:DPPTransition" href="Second.dpp#//@dppContainer/@transitions.1"/>
+            <ownedStyle xmi:type="diagram:Square" xmi:id="_p4SZc7XXEeaTi-UnM-ex0Q" labelPosition="node">
+              <description xmi:type="style:SquareDescription" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']/@subNodeMappings[name='Transition']/@style"/>
+            </ownedStyle>
+            <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer/@containerMappings[name='Dpp%20Container%20Graph']/@subContainerMappings[name='Business%20Unit%20Graph']/@subContainerMappings[name='Operation%20Fraph']/@subNodeMappings[name='Transition']"/>
+          </ownedDiagramElements>
+        </ownedDiagramElements>
+      </ownedDiagramElements>
+    </ownedDiagramElements>
+    <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']"/>
+    <filterVariableHistory xmi:type="diagram:FilterVariableHistory" xmi:id="_2itTDLXWEeabfPHhUTXoyQ"/>
+    <activatedLayers xmi:type="description_1:Layer" href="platform:/plugin/un.asydev.editor.ecore.dpp.design/description/dpp.odesign#//@ownedViewpoints[name='dppViewPoint']/@ownedRepresentations[name='DPP%20Diagram']/@defaultLayer"/>
+    <target xmi:type="un.asydev.editor.dpp:Document" href="Second.dpp#/"/>
+  </diagram:DSemanticDiagram>
+</xmi:XMI>

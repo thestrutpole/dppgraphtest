@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<un.asydev.editor.dpp:Document xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:un.asydev.editor.dpp="http:///un/asydev/editor/dom/dpp.ecore">
+  <dppContainer>
+    <businessUnits name="Officer"/>
+    <businessUnits name="Supervisor"/>
+    <businessUnits name="Manager"/>
+    <accesses operations="//@dppContainer/@operations[name='Register']" businessUnits="//@dppContainer/@businessUnits[name='Officer']"/>
+    <accesses operations="//@dppContainer/@operations[name='Update']" businessUnits="//@dppContainer/@businessUnits[name='Manager'] //@dppContainer/@businessUnits[name='Supervisor']"/>
+    <operations name="Register"/>
+    <operations name="Update"/>
+    <statuses name="NULL"/>
+    <statuses name="Registered"/>
+    <transitions finalStatus="//@dppContainer/@statuses[name='Registered']" operation="//@dppContainer/@operations[name='Register']" initialStatus="//@dppContainer/@statuses[name='NULL']"/>
+    <transitions finalStatus="//@dppContainer/@statuses[name='Registered']" operation="//@dppContainer/@operations[name='Update']" initialStatus="//@dppContainer/@statuses[name='Registered']"/>
+  </dppContainer>
+</un.asydev.editor.dpp:Document>
